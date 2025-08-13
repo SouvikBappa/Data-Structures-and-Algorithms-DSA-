@@ -1,0 +1,1 @@
+This repository contains my Data Structures and Algorithms (DSA) practice implementations. It includes solutions to classic problems on arrays, linked lists, stacks, queues, trees, and graphs. Each solution is easy to understand, and the code is organized in folders by data structure type for easy navigation and learning.
